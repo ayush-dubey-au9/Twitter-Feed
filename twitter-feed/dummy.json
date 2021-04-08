@@ -1,0 +1,31 @@
+{
+  "tweets": [
+    {
+          "name": "Mukul",
+           "user": "@mukul20",
+           "tweet":"this is my first tweet",
+           "isliked":false
+       },
+       {
+           "name": "Rohit",
+            "user": "@rohit20",
+            "tweet":"hey i am rohit. I am looking for opportunities",
+            "isliked":false
+        },{
+           "name": "Amit",
+            "user": "@amit4",
+            "tweet":"hey i am amit from aryabhatta",
+            "isliked":false
+        },{
+           "name": "Ayush",
+            "user": "@ayush4",
+            "tweet":"hey i am ayush. I am a web developer",
+            "isliked":false
+        },{
+          "name": "Gaurav",
+            "user": "@gaurav15",
+            "tweet":"Hey this is Gaurav.I am tech enthusiast",
+            "isliked":false
+        }
+  ]
+}
